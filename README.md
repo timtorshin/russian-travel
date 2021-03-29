@@ -13,3 +13,7 @@
 * Grid Layout
 * Позиционирование элементов
 * Figma
+
+## Ссылка на GitHub Pages:
+
+[Проектная работа "Путешествия по России"](https://timtorshin.github.io/russian-travel/)
