@@ -6,5 +6,9 @@
   font-size: 18px;
   line-height: 22px;
   text-decoration-line: underline;
-  border: 1px solid red;
+  transition: opacity .5s linear;
+}
+
+.place__link:hover {
+  opacity: .8;
 }
